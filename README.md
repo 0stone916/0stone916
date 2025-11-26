@@ -1,5 +1,7 @@
 <h1 align="center">안녕하세요 👋</h1>
 
+<h3 align="center">저는 프론트엔드 경험을 바탕으로 백엔드 역량을 확장해 나가는 개발자입니다</h3>
+
 <p align="left">
 </p>
 
